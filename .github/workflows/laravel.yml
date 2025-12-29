@@ -80,4 +80,4 @@ jobs:
 
     # 10. Lancer les tests
     - name: Run tests
-      run: php artisan test --parallel
+      run: php artisan test
